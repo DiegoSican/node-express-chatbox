@@ -1,7 +1,5 @@
-# Delivery
-Pain Log
-[Pain Log](PAIN_LOG.md)
-Golden Path
-[GOLDEN_PATH](GOLDEN_PATH.md)
-POSTMORTEM
-[POSTMORTEM](POSTMORTEM.md)
+## Delivery
+
+- [Pain Log](PAIN_LOG.md)
+- [Golden Path](GOLDEN_PATH.md)
+- [Postmortem](POSTMORTEM.md)
